@@ -13,6 +13,8 @@ Navigating hierarchical data structures through self-joins.
 Addressing complex queries with advanced window functions.
 Each challenge sharpened my SQL programming skills and deepened my understanding of its practical applications in a business context.
 
+Click [here](Business_problems) to view the business problems and their respective solution.
+
 ### Conclusion:
 This piece is a collection of my work and solutions from the course. It demonstrates my approach to solving each challenge, showcasing my ability to apply SQL techniques to analyze data, extract insights, and support business decisions.
 
