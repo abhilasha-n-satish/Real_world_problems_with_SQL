@@ -17,6 +17,7 @@ group by userid)
 select 
 num_link_clicks, count(userid) as num_users
 from click_links
-group by num_link_clicks```
+group by num_link_clicks
+```
 
 ### Solution Screenshot:
