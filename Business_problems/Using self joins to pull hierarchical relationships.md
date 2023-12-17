@@ -1,6 +1,6 @@
 ## Combining Multiple Tables Using UNION (Using self joins to pull hierarchical relationships)
 
-
+![B1](images/8.png)
 
 ### The Solution: 
 
@@ -20,3 +20,5 @@ where employees.DEPARTMENT = 'Sales'
 ```
 
 ### Solution Screenshot:
+
+![B1](images/S_8.png)
