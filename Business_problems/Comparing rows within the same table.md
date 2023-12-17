@@ -1,6 +1,6 @@
 ## Using Self joins to compare rows within the same table
 
-
+![B1](images/9.png)
 
 ### The Solution: 
 
@@ -32,3 +32,5 @@ current.monthly_revenue > previous.monthly_revenue
 ```
 
 ### Solution Screenshot:
+
+![B1](images/S_9.png)
