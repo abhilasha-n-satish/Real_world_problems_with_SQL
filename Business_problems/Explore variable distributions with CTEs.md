@@ -1,6 +1,6 @@
 ## Exploring variable distributions with CTEs
 
-
+![B1](images/2.png)
 
 ### The Solution: 
 
@@ -21,3 +21,5 @@ group by num_link_clicks
 ```
 
 ### Solution Screenshot:
+
+![B1](images/S_2.png)
