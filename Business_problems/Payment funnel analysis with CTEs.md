@@ -1,6 +1,6 @@
 ## Payment funnel analysis with multiple CTEs
 
-
+![B1](images/3.png)
 
 ### The Solution: 
 
@@ -34,3 +34,5 @@ group by paymentfunnelstage;
 ```
 
 ### Solution Screenshot:
+
+![B1](images/S_3.png)
