@@ -34,3 +34,5 @@ GROUP BY ProductName
 ```
 
 ### Solution Screenshot:
+
+![B1](images/S_1.png)
