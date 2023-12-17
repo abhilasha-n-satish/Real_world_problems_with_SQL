@@ -1,6 +1,6 @@
 ## Consecutive Timestamp Differences with LEAD()
 
-
+![B1](images/11.png)
 
 ### The Solution: 
 
@@ -19,3 +19,5 @@ where subscriptionid = '38844';
 ```
 
 ### Solution Screenshot:
+
+![B1](images/S_11.png)
