@@ -1,6 +1,6 @@
 ## Tracking Running Totals with Window Functions
 
-
+![B1](images/10.png)
 
 ### The Solution: 
 
@@ -22,3 +22,5 @@ order by salesemployeeid, saledate
 ```
 
 ### Solution Screenshot:
+
+![B1](images/S_10.png)
