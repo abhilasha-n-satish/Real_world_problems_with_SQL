@@ -1,6 +1,6 @@
 ## Combining Multiple Tables Using UNION
 
-
+![B1](images/6.png)
 
 ### The Solution: 
 
@@ -25,3 +25,5 @@ group by
 ```
 
 ### Solution Screenshot:
+
+![B1](images/S_6.png)
