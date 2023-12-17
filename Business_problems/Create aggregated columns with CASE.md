@@ -1,6 +1,6 @@
 ## Pivoting rows into aggregated columns with CASE
 
-
+![B1](images/5.png)
 
 ### The Solution: 
 
@@ -20,3 +20,5 @@ group by userid
 ```
 
 ### Solution Screenshot:
+
+![B1](images/S_5.png)
