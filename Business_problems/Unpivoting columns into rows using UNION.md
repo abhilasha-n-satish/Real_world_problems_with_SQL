@@ -1,5 +1,6 @@
 ## Unpivoting columns into rows using UNION
 
+![B1](images/7.png)
 
 ### The Solution: 
 
@@ -27,3 +28,5 @@ from
 ```
 
 ### Solution Screenshot:
+
+![B1](images/S_7.png)
