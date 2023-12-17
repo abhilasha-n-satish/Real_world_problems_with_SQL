@@ -1,6 +1,6 @@
 ## Creating Binary Columns with CASE
 
-
+![B1](images/4.png)
 
 ### The Solution: 
 
@@ -18,3 +18,5 @@ group by customerid
 ```
 
 ### Solution Screenshot:
+
+![B1](images/S_4.png)
